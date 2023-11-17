@@ -1,0 +1,5 @@
+package com.exception.example.demo.model;
+
+public class Product {
+
+}

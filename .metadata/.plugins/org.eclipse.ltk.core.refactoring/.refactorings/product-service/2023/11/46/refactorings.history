@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;mvnw.cmd&apos; to &apos;product-service&apos;" description="Move &apos;mvnw.cmd&apos; to &apos;product-service&apos;" destination="/product-service" element1="/spring-reddit-clone-master/mvnw.cmd" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1700066439151" updateReferences="true"/>
+</session>

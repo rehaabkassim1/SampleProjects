@@ -1,0 +1,16 @@
+package com.programmingtechie.productservice.service;
+
+import org.springframework.stereotype.Service;
+
+import com.programmingtechie.productservice.dto.ProductRequest;
+import com.programmingtechie.productservice.model.Product;
+
+@Service
+public class ProductService {
+	
+	public void createProduct(ProductRequest productRequest) {
+		
+		Product product = Product.
+	}
+
+}

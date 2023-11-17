@@ -1,0 +1,14 @@
+package com.exception.example.demo.service;
+
+import org.springframework.stereotype.Service;
+
+import com.exception.example.demo.model.Product;
+
+@Service
+public class ProductService {
+	
+	public Product getAllProductsById(Integer id) {
+		return new Product("101", "test1", "test1");
+	}
+
+}

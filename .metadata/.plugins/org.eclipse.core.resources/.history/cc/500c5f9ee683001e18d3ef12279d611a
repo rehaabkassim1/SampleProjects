@@ -1,0 +1,5 @@
+package com.exception.example.demo.exception;
+
+public class NoProductFoundException extends Runtime {
+
+}

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="CommentServiceTest2" project="spring-reddit-clone-master" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.programming.techie.springredditclone.service.CommentServiceTest2" time="0.026" displayname="CommentServiceTest2" uniqueid="[engine:junit-jupiter]/[class:com.programming.techie.springredditclone.service.CommentServiceTest2]">
+    <testcase name="shouldnotContainsSwearWords" classname="com.programming.techie.springredditclone.service.CommentServiceTest2" time="0.026" displayname="Test shold pass when comment doesnot contain swear words" uniqueid="[engine:junit-jupiter]/[class:com.programming.techie.springredditclone.service.CommentServiceTest2]/[method:shouldnotContainsSwearWords()]"/>
+  </testsuite>
+</testrun>
